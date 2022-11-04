@@ -4,7 +4,7 @@ Course: [Introduction to distributed technologies](https://github.com/itmo-ict-f
 Year: 2022/2023  
 Group: K4110c  
 Author: Orudzhev Eldar Eldarovich
-Lab: Lab2
+Lab: Lab2  
 Date of create: 04.11.2022  
 Date of finished: 10.11.2022  
 
