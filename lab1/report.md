@@ -3,7 +3,7 @@ Faculty: [FICT](https://fict.itmo.ru)
 Course: [Introduction to distributed technologies](https://github.com/itmo-ict-faculty/introduction-to-distributed-technologies)  
 Year: 2022/2023  
 Group: K4110c  
-Author: Orudzhev Eldar Eldarovich
+Author: Orudzhev Eldar Eldarovich  
 Lab: Lab1  
 Date of create: 03.11.2022  
 Date of finished: 10.11.2022  
@@ -39,14 +39,22 @@ spec:
 
 Теперь мы создадим сервис  
 ![scr3.png](Screenshots/scr3.png)  
+
 Получим доступ к Vault  
 ![scr4.png](Screenshots/scr4.png)  
+
 На данный момент имеет текущую картину
 ![scr5.png](Screenshots/scr5.png)  
 
-4) Нахождение токена  
+4) Нахождение токена
+
 Чтобы найти токен откроем второй терминал и там введем команду для логов  
 ![scr6.png](Screenshots/scr6.png)  
+
 Введем появившийся токен  
 ![scr7.png](Screenshots/scr7.png)  
+
 Как мы видим, мы смогли успешно зайти. Лабораторная работа выполнена
+
+Схема  
+![scheme.png](Screenshots/scheme.png)  
