@@ -3,7 +3,7 @@ Faculty: [FICT](https://fict.itmo.ru)
 Course: [Introduction to distributed technologies](https://github.com/itmo-ict-faculty/introduction-to-distributed-technologies)  
 Year: 2022/2023  
 Group: K4110c  
-Author: Orudzhev Eldar Eldarovich
+Author: Orudzhev Eldar Eldarovich  
 Lab: Lab2  
 Date of create: 04.11.2022  
 Date of finished: 10.11.2022  
@@ -11,12 +11,13 @@ Date of finished: 10.11.2022
 # Ход работы
 1) Скачивание образа  
 
-Скачиваем образ контейнера с указанного в лабораторной работе сайта  
+Скачиваем образ контейнера с указанного в лабораторной работе сайта.  
+
  ![scr1.png](Screenshots/scr1.png)  
  
  2) Манифест  
  
- Сделаем deployment манифест  
+ Сделаем deployment манифест.    
  ```yaml
 apiVersion: apps/v1
 kind: Deployment
@@ -47,7 +48,7 @@ spec:
 ```
  ![scr2.png](Screenshots/scr2.png) 
  
- Теперь сделаем манифест для сервиса  
+Теперь сделаем манифест для сервиса.  
  ```yaml
 apiVersion: v1
 kind: Service
@@ -71,4 +72,8 @@ spec:
 
 ![scr5.png](Screenshots/scr5.png)  
 
-В ходе выполнения лабораторной работы были выполнены все задачи
+В ходе выполнения лабораторной работы были выполнены все задачи.  
+
+5) Схема
+
+![scheme1.png](Screenshots/scheme1.png) 
