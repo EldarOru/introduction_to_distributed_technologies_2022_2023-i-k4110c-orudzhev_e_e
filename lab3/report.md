@@ -119,5 +119,7 @@ spec:
 ![src10.png](Screenshots/src10.png)  
 Также есть данные о сертификате  
 
+![scheme1.png](Screenshots/scheme1.png)
+
 В ходе выполнения лабораторной работы были выполнены все задачи
 
