@@ -134,6 +134,7 @@ data:
 Также попингуем поды  
 ![src7.png](Screenshots/src7.png)  
 Лабораторная работа выполнена  
+![scheme1.png](Screenshots/scheme1.png)  
 
 
 
