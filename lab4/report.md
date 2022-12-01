@@ -20,6 +20,7 @@ Date of finished: 24.11.2022
 ![src2.png](Screenshots/src2.png)  
 
 3) Удаление дефолтного IP Pool  
+
 ![src3.png](Screenshots/src3.png)  
 
 4) Создание IP Pools  
@@ -131,8 +132,10 @@ data:
 После этого я удалил и снова заэплаил deployment и всё заработало  
 ![src5.png](Screenshots/src5.png)  
 ![src6.png](Screenshots/src6.png)  
+
 Также попингуем поды  
 ![src7.png](Screenshots/src7.png)  
+
 Лабораторная работа выполнена  
 ![scheme1.png](Screenshots/scheme1.png)  
 
